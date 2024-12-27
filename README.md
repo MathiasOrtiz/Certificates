@@ -19,7 +19,7 @@ This repository serves as:
 - **Certificates.pdf**: A consolidated document containing all my certifications and honors.
 
 ## 📬 Contact
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) 💼 for any inquiries or collaborations.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mathiasortiz/) 💼 for any inquiries or collaborations.
 
 ---
 
